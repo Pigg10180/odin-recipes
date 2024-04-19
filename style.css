@@ -1,7 +1,32 @@
 * {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Verdana, "Geneva", Tahoma, sans-serif;
     background-color: antiquewhite;
     color: black;
+}
+
+div{
+    text-align: center;
+}
+
+#link{
+    box-sizing: border-box;
+    display: inline-block;
+    border: black 10px;
+    border-style: groove;
+    padding: 20px;
+    margin: auto 20px;
+}
+
+.link-left{
+    margin: ;
+}
+
+.link-center{
+   margin:
+}
+
+.link-right{
+   margin: 
 }
 
 h1{
@@ -17,7 +42,3 @@ h1{
     margin-right: auto;
     width: 50%;
 }
-
-
-
-
